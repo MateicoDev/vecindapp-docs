@@ -1,0 +1,12 @@
+@startgantt Diagrama de Gantt 5
+project starts the 2018/09/01
+sunday are closed
+[4] lasts 1 days
+[Módulo Invitados a Eventos] lasts 24 days
+
+[Módulo Invitados a Eventos] starts at [4]'s end
+
+[Continúa en 5] starts at [Módulo Invitados a Eventos]'s end
+
+[Módulo Invitados a Eventos] is colored in DarkGrey
+@endgantt

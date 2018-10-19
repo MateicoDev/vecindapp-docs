@@ -1,0 +1,12 @@
+@startgantt Diagrama de Gantt 4
+project starts the 2018/08/01
+sunday are closed
+[3] lasts 1 days
+[Módulo Solicitud de Vecinos] lasts 26 days
+
+[Módulo Solicitud de Vecinos] starts at [3]'s end
+
+[Continúa en 4] starts at [Módulo Solicitud de Vecinos]'s end
+
+[Módulo Solicitud de Vecinos] is colored in DarkGrey
+@endgantt

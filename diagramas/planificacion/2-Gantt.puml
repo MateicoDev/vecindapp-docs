@@ -1,0 +1,15 @@
+@startgantt Diagrama de Gantt 2
+project starts the 2018/05/01
+sunday are closed
+[1] lasts 1 days
+[Investigación y Desarrollo de Pruebas de Concepto] lasts 64 days
+[Definición y Desarrollo de la Arquitectura]  lasts 64 days
+
+[Investigación y Desarrollo de Pruebas de Concepto] starts at [1]'s end
+[Definición y Desarrollo de la Arquitectura] starts at [1]'s end
+[Continúa en 2] starts at [Investigación y Desarrollo de Pruebas de Concepto]'s end
+[Continúa en 2] starts at [Definición y Desarrollo de la Arquitectura]'s end
+
+[Investigación y Desarrollo de Pruebas de Concepto] is colored in DarkGrey
+[Definición y Desarrollo de la Arquitectura] is colored in DarkGrey
+@endgantt

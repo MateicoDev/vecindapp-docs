@@ -1,0 +1,12 @@
+@startgantt Diagrama de Gantt 9
+project starts the 2019/01/01
+sunday are closed
+[8] lasts 1 days
+[Módulo Pedidos Comunales] lasts 26 days
+
+[Módulo Pedidos Comunales] starts at [8]'s end
+
+[Continúa en 9] starts at [Módulo Pedidos Comunales]'s end
+
+[Módulo Pedidos Comunales] is colored in DarkGrey
+@endgantt

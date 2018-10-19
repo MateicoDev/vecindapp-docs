@@ -1,0 +1,12 @@
+@startgantt Diagrama de Gantt 7
+project starts the 2018/11/01
+sunday are closed
+[6] lasts 1 days
+[Módulo de Reuniones] lasts 25 days
+
+[Módulo de Reuniones] starts at [6]'s end
+
+[Continúa en 7] starts at [Módulo de Reuniones]'s end
+
+[Módulo de Reuniones] is colored in DarkGrey
+@endgantt

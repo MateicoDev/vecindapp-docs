@@ -1,0 +1,12 @@
+@startgantt Diagrama de Gantt 3
+project starts the 2018/07/15
+sunday are closed
+[2] lasts 1 days
+[Evaluación de Riesgos y Presupuesto] lasts 13 days
+
+[Evaluación de Riesgos y Presupuesto] starts at [2]'s end
+
+[Continúa en 3] starts at [Evaluación de Riesgos y Presupuesto]'s end
+
+[Evaluación de Riesgos y Presupuesto] is colored in DarkGrey
+@endgantt

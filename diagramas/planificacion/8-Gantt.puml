@@ -1,0 +1,12 @@
+@startgantt Diagrama de Gantt 8
+project starts the 2018/12/01
+sunday are closed
+[7] lasts 1 days
+[Módulo Espacios Comunes] lasts 25 days
+
+[Módulo Espacios Comunes] starts at [7]'s end
+
+[Continúa en 8] starts at [Módulo Espacios Comunes]'s end
+
+[Módulo Espacios Comunes] is colored in DarkGrey
+@endgantt

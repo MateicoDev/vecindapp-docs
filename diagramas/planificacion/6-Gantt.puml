@@ -1,0 +1,15 @@
+@startgantt Diagrama de Gantt 6
+project starts the 2018/10/01
+sunday are closed
+[5] lasts 1 days
+[Módulo de Liquidación de Expensas] lasts 26 days
+[Módulo de Estadísticas]  lasts 26 days
+
+[Módulo de Liquidación de Expensas] starts at [5]'s end
+[Módulo de Estadísticas] starts at [5]'s end
+[Continúa en 6] starts at [Módulo de Liquidación de Expensas]'s end
+[Continúa en 6] starts at [Módulo de Estadísticas]'s end
+
+[Módulo de Liquidación de Expensas] is colored in DarkGrey
+[Módulo de Estadísticas] is colored in DarkGrey
+@endgantt

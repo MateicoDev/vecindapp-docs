@@ -1,0 +1,10 @@
+@startgantt Diagrama de Gantt 1
+project starts the 2018/04/01
+sunday are closed
+[Investigación y Desarrollo de la Idea del Producto] lasts 25 days
+[Definición de tecnologías y metodologías de desarrollo]  lasts 25 days
+[Continúa en 1] starts at [Investigación y Desarrollo de la Idea del Producto]'s end
+[Continúa en 1] starts at [Definición de tecnologías y metodologías de desarrollo]'s end
+[Investigación y Desarrollo de la Idea del Producto] is colored in DarkGrey
+[Definición de tecnologías y metodologías de desarrollo] is colored in DarkGrey
+@endgantt

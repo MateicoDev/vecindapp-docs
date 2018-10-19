@@ -1,0 +1,19 @@
+@startgantt Diagrama de Gantt 10
+project starts the 2019/02/01
+sunday are closed
+[9] lasts 1 days
+[Desarrollo de Pruebas y Configuraciones Finales del Producto] lasts 11 days
+[Despliegue Final del Producto] lasts 11 days
+[Desarrollo de Presentación Final del Producto] lasts 11 days
+
+[Desarrollo de Pruebas y Configuraciones Finales del Producto] starts at [9]'s end
+[Despliegue Final del Producto] starts at [9]'s end
+[Desarrollo de Presentación Final del Producto] starts at [9]'s end
+[FIN] starts at [Desarrollo de Pruebas y Configuraciones Finales del Producto]'s end
+[FIN] starts at [Despliegue Final del Producto]'s end
+[FIN] starts at [Desarrollo de Presentación Final del Producto]'s end
+
+[Desarrollo de Pruebas y Configuraciones Finales del Producto] is colored in DarkGrey
+[Despliegue Final del Producto] is colored in DarkGrey
+[Desarrollo de Presentación Final del Producto] is colored in DarkGrey
+@endgantt
